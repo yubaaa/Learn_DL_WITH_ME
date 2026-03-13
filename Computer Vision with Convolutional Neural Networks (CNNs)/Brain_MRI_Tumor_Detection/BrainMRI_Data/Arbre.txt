@@ -1,0 +1,19 @@
+-./BrainMRI_Data 
+       ./Training 
+             ./pituitary_tumor
+                        p (1).jpg ... etc
+             ./no_tumor
+                        image (1).jpg ... etc
+             ./meningioma_tumor
+                        m2 (1).jpg ... etc
+             ./glioma_tumor 
+                        gg (1).jpg ... etc 
+        ./Testing
+             ./pituitary_tumor
+                        p (1).jpg ... etc
+             ./no_tumor
+                        image (1).jpg ... etc
+             ./meningioma_tumor
+                        m2 (1).jpg ... etc
+             ./glioma_tumor 
+                        gg (1).jpg ... etc  
